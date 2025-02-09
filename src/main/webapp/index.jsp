@@ -1,6 +1,6 @@
 <html>
 <body bgcolor="#c5dec9">
-<h2 align="center">Loqueo al sistema web de almacen</h2>
+<h2 align="center">Ingresando al sistema</h2>
 <h2 align="center">Version 1.0</h2>
 <h2 align="center">Loqueo</h2>
 

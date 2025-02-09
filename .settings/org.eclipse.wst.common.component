@@ -4,7 +4,6 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <property name="context-root" value="Proy_JPA_LPII_T2_NALVARTE_CRISTIAN"/>
         <property name="java-output-path" value="/Proy_JPA_LPII_T2_NALVARTE_CRISTIAN/target/classes"/>
     </wb-module>
